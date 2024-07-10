@@ -1,0 +1,64 @@
+.manage-students-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .students-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  
+  .students-table th,
+  .students-table td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid black;
+  }
+  
+  .students-table th {
+    background-color: black;
+  }
+  
+  .update-btn,
+  .delete-btn {
+    margin-right: 0.5rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .update-btn {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .delete-btn {
+    background-color: #f44336;
+    color: black;
+  }
+  
+  .manage-students-actions {
+    margin-top: 2rem;
+    text-align: right;
+  }
+  
+  .nav-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: black;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .nav-link:hover {
+    background-color: #0056b3;
+  }
+
+  td {
+    color: black;
+  }

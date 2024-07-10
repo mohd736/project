@@ -36,7 +36,7 @@ const Admin = () => {
   return (
     <div className="admin-home-page">
       <div className="navbar">
-        <h1>ONLINE NOTICE BOARD SYSTEM</h1>
+        <h1>ONLINE INFORMATIONBOARD SYSTEM</h1>
       </div>
       <div className="content">
         <div className="left-menu">
